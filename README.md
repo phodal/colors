@@ -1,7 +1,7 @@
-# Colors: A Collection of Phodal's usage in design 
+# Colors: A Collection of Phodal's usage in design
 
 ```bash
-python generate.py ouput_file_name color_name color 
+python generate.py ouput_file_name color_name color
 ```
 
 example:
@@ -11,6 +11,11 @@ python generator.py 'metro-dark-green' 'Dark Green' '#1e7145'
 python generator.py 'metro-blue' 'Metro Blue' '#2d89ef'
 ```
 
+Make Index Page
+
+```bash
+make index
+```
 
 Colors
 ------
