@@ -3,13 +3,13 @@ import sys
 
 
 def draw_text(file_name, color_name, color):
-    dwg = svgwrite.Drawing('colors/' + file_name + '-text.svg', height=180, width=30)
+    dwg = svgwrite.Drawing('colors/' + file_name + '-text.svg', size=(u'180', u'30'))
     dwg.add(dwg.text(color_name + ':' + color, insert=(10, 20), fill=color))
     dwg.save()
 
 
 def draw_bg(file_name, color):
-    dwg = svgwrite.Drawing('colors/' + file_name + '-bg.svg', height=180, width=30)
+    dwg = svgwrite.Drawing('colors/' + file_name + '-bg.svg', size=(u'180', u'30'))
     dwg.add(dwg.rect((0, 0), (120, 50), fill=color))
     dwg.save()
 
