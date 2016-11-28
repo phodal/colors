@@ -8,6 +8,7 @@ example:
 
 ```bash
 python generator.py 'metro-dark-green' 'Dark Green' '#1e7145'
+python generator.py 'metro-blue' 'Metro Blue' '#2d89ef'
 ```
 
 

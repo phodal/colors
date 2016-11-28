@@ -9,8 +9,8 @@ def draw_text(file_name, color_name, color):
 
 
 def draw_bg(file_name, color):
-    dwg = svgwrite.Drawing('colors/' + file_name + '-bg.svg', size=(u'180', u'30'))
-    dwg.add(dwg.rect((0, 0), (120, 50), fill=color))
+    dwg = svgwrite.Drawing('colors/' + file_name + '-bg.svg', size=(u'180', u'60'))
+    dwg.add(dwg.rect((0, 0), (180, 60), fill=color))
     dwg.save()
 
 
