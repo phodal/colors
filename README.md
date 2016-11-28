@@ -1,12 +1,12 @@
 # Colors: A Collection of Phodal's usage in design 
 
-```python
+```bash
 python generate.py ouput_file_name color_name color 
 ```
 
 example:
 
-```python
+```bash
 python generator.py 'metro-dark-green' 'Dark Green' '#1e7145'
 ```
 
