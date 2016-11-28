@@ -2,6 +2,14 @@
 
 > A Collection of Phodal's usage in design
 
- Name          |    Value 
- --------------|---------------
- Metro Blue    | <font color="#2d89ef">#2d89ef</font>
+ Name          |    Value                                                 | BG Example
+ --------------|------------------------------------------------------------------------
+ Metro Blue    | <a><img src="/colors/metro-blue-text.svg"/></a>          | <a><img src="/colors/metro-blue-bg.svg"/></a>
+
+
+
+
+LICENSE
+-------
+
+MIT
