@@ -27,4 +27,6 @@ if __name__ == '__main__':
           ' | '
           '<a><img src="https://phodal.github.io/colors/colors/' + file_name + '-text.svg"/></a>          '
           ' | '
-          '<a><img src="https://phodal.github.io/colors/colors/' + file_name + '-bg.svg"/></a>')
+          '<a><img src="https://phodal.github.io/colors/colors/' + file_name + '-bg.svg"/></a>'
+          ' | '
+           + color)
