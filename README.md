@@ -25,9 +25,11 @@ Name          |    Value                                                 | BG Ex
 Metro Blue    | <a><img src="https://phodal.github.io/colors/colors/metro-blue-text.svg"/></a>          | <a><img src="https://phodal.github.io/colors/colors/metro-blue-bg.svg"/></a>
 Dark Green    | <a><img src="https://phodal.github.io/colors/colors/metro-dark-green-text.svg"/></a>           | <a><img src="https://phodal.github.io/colors/colors/metro-dark-green-bg.svg"/></a>
 
+Refs
+---
 
-
-
+ - http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
+ 
 License
 ---
 
