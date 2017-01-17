@@ -25,6 +25,8 @@ Name          |    Value                                                 | BG Ex
 Metro Blue    | <a><img src="https://phodal.github.io/colors/colors/metro-blue-text.svg"/></a>          | <a><img src="https://phodal.github.io/colors/colors/metro-blue-bg.svg"/></a>  | #2d89ef
 Dark Green    | <a><img src="https://phodal.github.io/colors/colors/metro-dark-green-text.svg"/></a>           | <a><img src="https://phodal.github.io/colors/colors/metro-dark-green-bg.svg"/></a> | #1e7145
 Terminal Green    | <a><img src="https://phodal.github.io/colors/colors/terminal-green-text.svg"/></a>           | <a><img src="https://phodal.github.io/colors/colors/terminal-green-bg.svg"/></a> | #30ea30
+Blue Dark    | <a><img src="https://phodal.github.io/colors/colors/blue-dark-text.svg"/></a> | <a><img src="https://phodal.github.io/colors/colors/blue-dark-bg.svg"/></a> |
+#50616D
 
 Refs
 ---
